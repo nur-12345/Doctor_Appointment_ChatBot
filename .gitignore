@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables (never upload this)
+.env
+
+# macOS system file
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# Audio files generated during TTS
+*.mp3
+*.wav
+
